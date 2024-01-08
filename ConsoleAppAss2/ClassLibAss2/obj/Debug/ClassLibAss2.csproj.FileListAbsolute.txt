@@ -1,0 +1,6 @@
+E:\Mphasis Phase4\Day2\Assignment\ConsoleAppAss2\ClassLibAss2\bin\Debug\ClassLibAss2.dll
+E:\Mphasis Phase4\Day2\Assignment\ConsoleAppAss2\ClassLibAss2\bin\Debug\ClassLibAss2.pdb
+E:\Mphasis Phase4\Day2\Assignment\ConsoleAppAss2\ClassLibAss2\obj\Debug\ClassLibAss2.csproj.AssemblyReference.cache
+E:\Mphasis Phase4\Day2\Assignment\ConsoleAppAss2\ClassLibAss2\obj\Debug\ClassLibAss2.csproj.CoreCompileInputs.cache
+E:\Mphasis Phase4\Day2\Assignment\ConsoleAppAss2\ClassLibAss2\obj\Debug\ClassLibAss2.dll
+E:\Mphasis Phase4\Day2\Assignment\ConsoleAppAss2\ClassLibAss2\obj\Debug\ClassLibAss2.pdb
